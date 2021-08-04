@@ -4,10 +4,6 @@ public class Calculator {
     public static void main(String[] args){
         Calculator calculate = new Calculator();
         calculate.calculator();
-        addition();
-        subtraction();
-        multiplication();
-        division();
     }
     public void calculator(){
         int option;
